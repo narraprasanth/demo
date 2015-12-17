@@ -1,4 +1,4 @@
-# Hello World Java 1
+# Hello World Java 11
 
 This is a very simple Servlet-based Java webapp. 
 
